@@ -1,0 +1,8 @@
+{
+  "name": "br-polls",
+  "version": "1.0.0",
+  "description": "Bleacher Report in-article poll service",
+  "scripts": { "dev": "vercel dev" },
+  "dependencies": { "@supabase/supabase-js": "^2.39.0" },
+  "devDependencies": { "vercel": "^33.0.0" }
+}
